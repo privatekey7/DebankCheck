@@ -4,10 +4,10 @@ DebankChek
 
 Работает в многопоточном режиме строго через прокси
 
-Первый запуск будет долгим т.к. софт загрузит движок Browser Automation Scripting (BAS)
+Первый запуск будет долгим т.к. софт загрузит движок Browser Automation Studio (BAS)
 
 В wallets.txt указываем кошельки (каждый кошелёк с новой строки)
 
-В proxy.txt указываем прокси в формате IP:PORT:LOGIN:PASSOWORD
+В proxy.txt указываем прокси в формате IP:PORT:LOGIN:PASSWORD
 
 Балансы выводяться в лог и записываются в result.txt
